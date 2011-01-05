@@ -1,0 +1,6 @@
+version:2
+handle:{HMAC-SHA1}{4d23c422}{LYPwlA==}
+secret:kD8KfzYF2qBHO8hSSLEe9FdbXC8=
+issued:1294189602
+lifetime:1209600
+assoc_type:HMAC-SHA1

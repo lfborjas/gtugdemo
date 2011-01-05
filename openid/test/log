@@ -1,0 +1,128 @@
+.........................
+----------------------------------------------------------------------
+Ran 25 tests in 0.002s
+
+OK
+...................
+----------------------------------------------------------------------
+Ran 19 tests in 0.950s
+
+OK
+Generated checkid_setup request to http://server.unittest/ with assocication assoc-handle
+.Generated checkid_setup request to http://server.unittest/ using stateless mode.
+.Generated checkid_setup request to http://server.unittest/ with assocication assoc-handle
+.Generated checkid_setup request to http://server.unittest/ with assocication assoc-handle
+..Generated checkid_setup request to http://server.unittest/ with assocication assoc-handle
+.Generated checkid_immediate request to http://server.unittest/ with assocication assoc-handle
+.Generated checkid_immediate request to http://server.unittest/ using stateless mode.
+.Generated checkid_immediate request to http://server.unittest/ with assocication assoc-handle
+.Generated checkid_immediate request to http://server.unittest/ with assocication assoc-handle
+..Generated checkid_immediate request to http://server.unittest/ with assocication assoc-handle
+.Generated checkid_setup request to http://server.unittest/ with assocication assoc-handle
+.Generated checkid_setup request to http://server.unittest/ using stateless mode.
+.Generated checkid_setup request to http://server.unittest/ with assocication assoc-handle
+.Generated checkid_setup request to http://server.unittest/ with assocication assoc-handle
+.Generated checkid_setup request to http://server.unittest/ with assocication assoc-handle
+..Generated checkid_setup request to http://server.unittest/ with assocication assoc-handle
+.Generated checkid_setup request to http://server.unittest/ with assocication assoc-handle
+.Generated checkid_immediate request to http://server.unittest/ with assocication assoc-handle
+.Generated checkid_immediate request to http://server.unittest/ using stateless mode.
+.Generated checkid_immediate request to http://server.unittest/ with assocication assoc-handle
+.Generated checkid_immediate request to http://server.unittest/ with assocication assoc-handle
+.Generated checkid_immediate request to http://server.unittest/ with assocication assoc-handle
+..Generated checkid_immediate request to http://server.unittest/ with assocication assoc-handle
+.Generated checkid_immediate request to http://server.unittest/ with assocication assoc-handle
+.
+----------------------------------------------------------------------
+Ran 28 tests in 0.012s
+
+OK
+......................................................................................................................................
+----------------------------------------------------------------------
+Ran 134 tests in 0.245s
+
+OK
+............................................................xrds error on =smoker*bad
+...
+----------------------------------------------------------------------
+Ran 63 tests in 0.023s
+
+OK
+..................
+----------------------------------------------------------------------
+Ran 18 tests in 0.006s
+
+OK
+/usr/local/lib/python2.6/dist-packages/twill-0.9-py2.6.egg/twill/other_packages/_mechanize_dist/_auth.py:14: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+  import re, base64, urlparse, posixpath, md5, sha, sys, copy
+/usr/local/lib/python2.6/dist-packages/twill-0.9-py2.6.egg/twill/other_packages/_mechanize_dist/_auth.py:14: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+  import re, base64, urlparse, posixpath, md5, sha, sys, copy
+Generated checkid_setup request to http://localhost:8080/openidserver using stateless mode.
+.Generated checkid_setup request to http://localhost:8080/openidserver using stateless mode.
+.
+----------------------------------------------------------------------
+Ran 2 tests in 0.582s
+
+OK
+............................................................................................................................................................
+----------------------------------------------------------------------
+Ran 156 tests in 0.060s
+
+OK
+................
+----------------------------------------------------------------------
+Ran 16 tests in 0.002s
+
+OK
+...................
+----------------------------------------------------------------------
+Ran 19 tests in 0.006s
+
+OK
+...................................
+----------------------------------------------------------------------
+Ran 35 tests in 0.002s
+
+OK
+.............................
+----------------------------------------------------------------------
+Ran 29 tests in 0.005s
+
+OK
+...................
+----------------------------------------------------------------------
+Ran 19 tests in 0.003s
+
+OK
+.............../usr/local/lib/python2.6/dist-packages/openid/server/server.py:980: DeprecationWarning: The "namespace" attribute of CheckIDRequest objects is deprecated. Use "message.getOpenIDNamespace()" instead
+  self.fields = Message(request.namespace)
+............................................................................................................
+----------------------------------------------------------------------
+Ran 123 tests in 1.051s
+
+OK
+.............................................
+----------------------------------------------------------------------
+Ran 45 tests in 0.003s
+
+OK
+......
+----------------------------------------------------------------------
+Ran 6 tests in 0.000s
+
+OK
+...............
+----------------------------------------------------------------------
+Ran 15 tests in 0.004s
+
+OK
+.......................
+----------------------------------------------------------------------
+Ran 23 tests in 0.002s
+
+OK
+.................
+----------------------------------------------------------------------
+Ran 17 tests in 0.005s
+
+OK
